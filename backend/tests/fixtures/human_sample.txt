@@ -1,0 +1,11 @@
+Our office went remote in March 2020 and never came back. Not really by choice — the lease ran out in August and nobody wanted to sign a new one at 2019 prices for a floor that was, on a good day, maybe a third full.
+
+Four years in, I've stopped believing most of what gets written about this. The productivity studies contradict each other. Stanford said 13% up, then later said 10% down for fully remote, and the honest answer is it depends enormously on the job, the manager, and whether the person has a door they can close.
+
+What I actually noticed: the meetings got worse before they got better. For about eight months everyone overcorrected. We had a daily standup, a weekly all-hands, a Friday social, and something called "virtual coffee" that three people ever attended. All of it was an attempt to replace something that hadn't actually been that valuable in the office either. We eventually killed most of it.
+
+The thing nobody warned me about was hiring. On paper, a global talent pool sounds great. In practice, my team now spans nine time zones, and there is exactly one hour where everyone is awake. We do a lot of writing. That turned out to be good for us — decisions get documented, and the people who think slowly get a fair shot — but it took two years and a couple of bad hires to work out.
+
+Isolation is real, though it hits unevenly. The engineers who were already introverted are thriving. Two people quit and told me in their exit interviews that they'd gone six months without a conversation that wasn't about work. One of them cried. I think about that a lot.
+
+Would I go back? No. But I've stopped pretending the tradeoff isn't a tradeoff.

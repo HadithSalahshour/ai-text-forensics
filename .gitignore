@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Local model weights (~2.2 GB, re-downloadable)
+backend/models/
+.cache/
+
+# Local data — documents and results never leave this machine,
+# and they never enter git either.
+data/
+*.sqlite
+*.sqlite3
+*.db
+
+# Secrets and local developer settings
+.env
+.env.*
+!.env.example
+.claude/
+.codex/
+.idea/
+.vscode/
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+
+# Frontend
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+
+# macOS
+.DS_Store
