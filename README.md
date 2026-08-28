@@ -4,6 +4,11 @@ Local AI-writing detector and humanizer. Scores prose for how machine-generated
 it reads, shows the evidence sentence by sentence, then rewrites it to read as
 human without changing what it says.
 
+## Why this project
+
+Most AI-writing detectors provide a score without explaining it. 
+AI Text Forensics runs locally, highlights sentence-level evidence, and can rewrite text while protecting its meaning and facts.
+
 ## Privacy posture
 
 - **Detection never touches the network.** All scoring runs on-device.
