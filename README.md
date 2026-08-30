@@ -71,6 +71,12 @@ Reads `.txt`, `.md`, `.docx`, `.pdf`.
 Below ~150 words the statistics are too noisy for a confident verdict, and the
 tool says so instead of guessing.
 
+## Responsible use
+
+AI-detection scores are probabilistic indicators, not proof of authorship. 
+Do not use a score alone for academic, employment, or disciplinary decisions. 
+Review the sentence-level evidence and context before drawing conclusions.
+
 ## How detection works
 
 Four tiers of evidence, fused into one score. The two families are
